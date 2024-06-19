@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "masonry-layout": "^4.2.2",
-    "nostr-tools": "^1.2.1",
+    "nostr-tools": "^1.17.0",
     "websocket-polyfill": "^0.0.3"
   },
   "devDependencies": {
